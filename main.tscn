@@ -31,4 +31,6 @@ transform/pos = Vector2( 644.625, 362.987 )
 transform/scale = Vector2( 1.3663, 0.900615 )
 texture = ExtResource( 4 )
 
+[node name="Player" type="Sprite" parent="."]
+
 
