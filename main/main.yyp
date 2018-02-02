@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "25a47640-04f6-4aa6-b35a-a6cdec3ab863",
+            "Value": {
+                "id": "aafec24b-dc9e-4b9e-afd8-104d0c436839",
+                "resourcePath": "tilesets\\jungletimefunzonewithextrafun\\jungletimefunzonewithextrafun.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "2fa83dc8-91ee-4aaa-bccb-269e7f7110d1",
             "Value": {
                 "id": "d877edd2-fda8-4e11-93af-bc7fb48da01f",
@@ -76,6 +84,14 @@
                 "id": "abee7d3c-e365-4a37-8777-3892fee60a1e",
                 "resourcePath": "views\\339eba19-fff0-46cb-a868-cc2e3e686c9a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3daff564-9627-4fa1-bcfc-1500c39cc77e",
+            "Value": {
+                "id": "bef0377c-66f3-4175-9704-ad7e3189a3f9",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
