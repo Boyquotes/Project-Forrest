@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "25a47640-04f6-4aa6-b35a-a6cdec3ab863",
+            "Value": {
+                "id": "aafec24b-dc9e-4b9e-afd8-104d0c436839",
+                "resourcePath": "tilesets\\jungletimefunzonewithextrafun\\jungletimefunzonewithextrafun.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "2fa83dc8-91ee-4aaa-bccb-269e7f7110d1",
             "Value": {
                 "id": "d877edd2-fda8-4e11-93af-bc7fb48da01f",
@@ -79,10 +87,18 @@
             }
         },
         {
+            "Key": "3daff564-9627-4fa1-bcfc-1500c39cc77e",
+            "Value": {
+                "id": "bef0377c-66f3-4175-9704-ad7e3189a3f9",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e2b6820-414b-4d3a-a7da-c332ea51174d",
             "Value": {
                 "id": "3394e3e2-5a32-485f-aa44-29a533e6ba1e",
-                "resourcePath": "sprites\\background\\background.yy",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -95,10 +111,18 @@
             }
         },
         {
+            "Key": "56074c17-167c-4e90-a3bc-4fcfc75a445f",
+            "Value": {
+                "id": "1283109b-422d-43f5-86a6-8c472d09c88f",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "60c941eb-a411-418e-8abe-13299d9ff239",
             "Value": {
                 "id": "3a705e9f-92c5-464f-9d63-f02be075fd00",
-                "resourcePath": "sprites\\player\\player.yy",
+                "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
             }
         },
