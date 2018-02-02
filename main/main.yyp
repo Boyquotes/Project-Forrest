@@ -79,11 +79,27 @@
             }
         },
         {
+            "Key": "3e2b6820-414b-4d3a-a7da-c332ea51174d",
+            "Value": {
+                "id": "3394e3e2-5a32-485f-aa44-29a533e6ba1e",
+                "resourcePath": "sprites\\background\\background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "458ee149-333c-4429-a753-6a73cda4777d",
             "Value": {
                 "id": "eaadfa26-4efa-4438-8035-204455e0d08e",
                 "resourcePath": "views\\458ee149-333c-4429-a753-6a73cda4777d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "60c941eb-a411-418e-8abe-13299d9ff239",
+            "Value": {
+                "id": "3a705e9f-92c5-464f-9d63-f02be075fd00",
+                "resourcePath": "sprites\\player\\player.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
