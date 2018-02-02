@@ -98,7 +98,7 @@
             "Key": "3e2b6820-414b-4d3a-a7da-c332ea51174d",
             "Value": {
                 "id": "3394e3e2-5a32-485f-aa44-29a533e6ba1e",
-                "resourcePath": "sprites\\background\\background.yy",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -114,7 +114,7 @@
             "Key": "60c941eb-a411-418e-8abe-13299d9ff239",
             "Value": {
                 "id": "3a705e9f-92c5-464f-9d63-f02be075fd00",
-                "resourcePath": "sprites\\player\\player.yy",
+                "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
             }
         },
