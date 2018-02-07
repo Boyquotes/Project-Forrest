@@ -1,19 +1,10 @@
 {
-    "id": "b1a8eb30-7e76-4459-bee9-d6cb31bb95dc",
+    "id": "1d115853-d70a-43b4-900d-df5409ffc41f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_grassTileset",
+    "name": "obj_physicalTile",
     "eventList": [
-        {
-            "id": "ab0e2c9e-8586-44d0-8455-5bf42dbeb37d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "b1a8eb30-7e76-4459-bee9-d6cb31bb95dc"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "d8c33d90-ac31-4317-ac6d-c3333011b9a5",
+    "spriteId": "fb425bad-4feb-4868-a53a-941129ff0e5d",
     "visible": true
 }
