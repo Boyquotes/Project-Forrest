@@ -1,26 +1,9 @@
-//Gravity
+key_left = keyboard_check(ord("A"));
+key_right = keyboard_check(ord("D"));
+key_jump = keyboard_check(vk_space);
 
-if !place_meeting(x, y, obj_physicalTile)
-{
-   gravity = 0.01;
-}
-else
-{
-   gravity = 0;
-}
+var move = key_right - key_left;
 
-//Right
-if	(keyboard_check(ord("D"))) 
-{                 
-	x = x + movementSpeed;
-}
-if	(keyboard_check(ord("A")))
-{
-	x = x - movementSpeed;
-}
-	
-//Jump
-if (keyboard_check(vk_space) and jumpPossible == true)
-{	
-	y = y - 5;
-}
+hsp = move * walkSpeed;
+
+x =x + hsp;
