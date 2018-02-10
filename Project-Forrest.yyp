@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2a95a8ac-a65e-4db4-b3fc-1932ae848ef5",
+            "Value": {
+                "id": "7e0012b7-aa69-4584-8fe4-f57324b0dcab",
+                "resourcePath": "sprites\\spr_playerAirborne\\spr_playerAirborne.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4970eaef-3255-4009-a245-524315b2cd4a",
             "Value": {
                 "id": "cf2f9ad8-6ef8-468b-88be-1bd8732810ec",
@@ -227,6 +235,14 @@
             "Value": {
                 "id": "bd1a5d4b-ecdd-4798-928e-7af087064ea7",
                 "resourcePath": "sprites\\spr_tilesetGrass\\spr_tilesetGrass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dbec0d30-e0a3-4e9d-b45d-53a58b633db6",
+            "Value": {
+                "id": "bb7cc232-cfad-48dc-a97e-70671b0ec27b",
+                "resourcePath": "sprites\\spr_playerRun\\spr_playerRun.yy",
                 "resourceType": "GMSprite"
             }
         },
