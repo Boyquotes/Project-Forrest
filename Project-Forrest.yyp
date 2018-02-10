@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2a95a8ac-a65e-4db4-b3fc-1932ae848ef5",
+            "Value": {
+                "id": "7e0012b7-aa69-4584-8fe4-f57324b0dcab",
+                "resourcePath": "sprites\\spr_playerAirborne\\spr_playerAirborne.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4970eaef-3255-4009-a245-524315b2cd4a",
             "Value": {
                 "id": "cf2f9ad8-6ef8-468b-88be-1bd8732810ec",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "8ad1dbca-4136-486c-b4a3-dde2b13295cd",
+            "Value": {
+                "id": "d86dd806-502c-4ee7-a21c-a3da97085d12",
+                "resourcePath": "sprites\\spr_playerTest\\spr_playerTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8faedace-44b9-407d-924c-0d95e6b30a76",
             "Value": {
                 "id": "2158b791-29de-4fe3-afe2-4d1d6f71e87d",
@@ -167,11 +183,11 @@
             }
         },
         {
-            "Key": "ae4c9afb-72b7-4c96-a28c-1835d9fbd987",
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
-                "id": "c8e99714-b9e6-4f77-bede-7c940bb49286",
-                "resourcePath": "rooms\\room02\\room02.yy",
-                "resourceType": "GMRoom"
+                "id": "343c556a-6697-4ab7-92ca-66b546b07192",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "dbec0d30-e0a3-4e9d-b45d-53a58b633db6",
+            "Value": {
+                "id": "bb7cc232-cfad-48dc-a97e-70671b0ec27b",
+                "resourcePath": "sprites\\spr_playerRun\\spr_playerRun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "de1b92b4-45a0-4c76-9189-b402a937c069",
             "Value": {
                 "id": "9156099f-34b2-4c14-91cf-0656df5044e7",
@@ -255,11 +279,11 @@
             }
         },
         {
-            "Key": "fae59023-c9c1-4abe-8f88-d2fea2e0c7c4",
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
-                "id": "1cc8a6dc-9c97-4e6a-a253-17d5f1ed2038",
-                "resourcePath": "objects\\object3\\object3.yy",
-                "resourceType": "GMObject"
+                "id": "f4d0c361-da32-4a02-b764-8b86049a32a7",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {

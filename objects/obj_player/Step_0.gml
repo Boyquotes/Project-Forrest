@@ -1,4 +1,4 @@
-//Get Player Input
+ //Get Player Input
 key_left = keyboard_check(ord("A"));
 key_right = keyboard_check(ord("D"));
 key_jump = keyboard_check(vk_space);
@@ -10,31 +10,62 @@ hsp = move * walkSpeed;
 
 vsp = vsp + grv;
 
+//Jump
 if (place_meeting(x, y + 1, obj_physicalTile)) && (key_jump)
 {
-	vsp = -2.5;
+	vsp = -3.25;
 }
 
 //Horiz Collisions
-if (place_meeting(x+hsp, y, obj_physicalTile))
+if (place_meeting(x + hsp, y, obj_physicalTile))
 {
-	while (!place_meeting(x+sign(hsp), y, obj_physicalTile))
+	while (!place_meeting(x + sign(hsp), y, obj_physicalTile))
 	{
-		x = x + sign(hsp);
+	 	x = x + sign(hsp);
 	}
 	hsp = 0;
 }
 x  = x + hsp;
 
 //Vert Collision
-if (place_meeting(x, y+vsp, obj_physicalTile))
+if (place_meeting(x, y + vsp, obj_physicalTile))
 {
-	while (!place_meeting(x, y+sign(vsp), obj_physicalTile))
+	while (!place_meeting(x, y + vsp, obj_physicalTile))
 	{
-		x = x + sign(hsp);
+		y = y + sign(hsp);
 	}
 	vsp = 0;
 }
-
-
 y = y + vsp;
+
+//Animation
+if (!place_meeting(x, y + 1, obj_physicalTile))
+{
+	sprite_index = spr_playerAirborne;
+	image_speed = 0;
+	if (sign(vsp) > 0)
+	{
+		image_index = 1;
+	} 
+	else
+	{
+		image_index = 0;
+	}
+}
+else
+{
+	image_speed = 1;
+	if (hsp == 0)
+	{
+		sprite_index = spr_player;
+	}
+	else
+	{
+		sprite_index = spr_playerRun;
+	}
+}
+
+if (hsp != 0)
+{
+	image_xscale = sign(hsp);
+}
