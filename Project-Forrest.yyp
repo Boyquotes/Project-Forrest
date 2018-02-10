@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "8ad1dbca-4136-486c-b4a3-dde2b13295cd",
+            "Value": {
+                "id": "d86dd806-502c-4ee7-a21c-a3da97085d12",
+                "resourcePath": "sprites\\spr_playerTest\\spr_playerTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8faedace-44b9-407d-924c-0d95e6b30a76",
             "Value": {
                 "id": "2158b791-29de-4fe3-afe2-4d1d6f71e87d",
@@ -156,6 +164,14 @@
                 "id": "e977e505-412b-4d68-9659-94757d2494f1",
                 "resourcePath": "views\\a22826dc-0d0c-41a9-bdf6-5a585549e92d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "343c556a-6697-4ab7-92ca-66b546b07192",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -236,6 +252,14 @@
                 "id": "aeb1a00d-e271-4454-b43e-04f170df09f6",
                 "resourcePath": "views\\eef7af48-2401-4629-9caa-2835cdd54be4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "f4d0c361-da32-4a02-b764-8b86049a32a7",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
