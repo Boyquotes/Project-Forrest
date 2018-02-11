@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "63d85103-a699-4923-8505-6525591d8a53",
+            "Value": {
+                "id": "d5917216-c9a3-4dbe-b3f4-060f98bbc493",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "66be85d8-7742-4761-bc1f-faafc04bc3eb",
             "Value": {
                 "id": "9c28875d-7c48-460a-a477-d1ed633b5bdf",
@@ -156,6 +164,14 @@
                 "id": "b5b29fb9-0b93-49cb-b5e3-355916c47606",
                 "resourcePath": "sprites\\spr_background\\spr_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "950d5b39-d37e-4b44-b477-2e9c25835985",
+            "Value": {
+                "id": "752fdbba-c88e-4c0c-8853-fd4c344203af",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -274,7 +290,7 @@
             "Key": "f3865e90-619c-499d-a5c1-5db3366bc49c",
             "Value": {
                 "id": "68e3be14-7019-43e3-a19d-7fae543052e2",
-                "resourcePath": "sprites\\spr_weapon\\spr_weapon.yy",
+                "resourcePath": "sprites\\spr_gun\\spr_gun.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -284,6 +300,14 @@
                 "id": "f4d0c361-da32-4a02-b764-8b86049a32a7",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f65bb13b-7b52-4475-80f0-ba5549913a2c",
+            "Value": {
+                "id": "b2cd512c-eb31-41c9-ae17-2bffc7d0f4b4",
+                "resourcePath": "objects\\obj_gun\\obj_gun.yy",
+                "resourceType": "GMObject"
             }
         },
         {
