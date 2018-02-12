@@ -1,4 +1,4 @@
-//Get Player Input
+ //Get Player Input
 key_left = keyboard_check(ord("A")) || keyboard_check(vk_left);
 key_right = keyboard_check(ord("D")) || keyboard_check(vk_right);
 key_jump = keyboard_check(vk_space);
@@ -13,7 +13,7 @@ vsp = vsp + grv;
 //Jump
 if (place_meeting(x, y + 1, obj_physicalTile)) && (key_jump)
 {
-	vsp = -5;
+	vsp = -4;
 }
 
 //Horiz Collisions
