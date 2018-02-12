@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "633a5a16-a340-453e-8e3f-1c7b514f89de",
+            "Value": {
+                "id": "72070642-2426-42b9-96da-3ea1c332b7b1",
+                "resourcePath": "sprites\\spr_slime\\spr_slime.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "63d85103-a699-4923-8505-6525591d8a53",
             "Value": {
                 "id": "d5917216-c9a3-4dbe-b3f4-060f98bbc493",
