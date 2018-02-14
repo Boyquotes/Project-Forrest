@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "b084f8aa-2014-49e6-a75d-0106ee612f8a",
+            "Value": {
+                "id": "5bd92f3d-b8b3-4113-aa0a-24fb785bbc58",
+                "resourcePath": "sprites\\spr_wraith\\spr_wraith.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b1a8eb30-7e76-4459-bee9-d6cb31bb95dc",
             "Value": {
                 "id": "e57a592b-7b01-46c4-8688-e826e712b545",
@@ -308,6 +316,14 @@
                 "id": "6bfcd2ca-0fc3-4485-a058-683f8bcf011f",
                 "resourcePath": "views\\b478b539-e45f-4e2d-926d-051bfe89aa28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c07e0630-14ad-4dc6-b428-ad168f0a2ef1",
+            "Value": {
+                "id": "9f324132-77df-473b-818c-112ce88decc5",
+                "resourcePath": "sprites\\spr_zombo01\\spr_zombo01.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
