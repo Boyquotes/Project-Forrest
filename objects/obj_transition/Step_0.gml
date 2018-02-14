@@ -6,6 +6,6 @@ if (mode != TRANS_MODE.OFF)
 	}
 	else
 	{
-	
+		percent = min(1, percent + 0.05);
 	}
 }
