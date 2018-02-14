@@ -4,7 +4,31 @@
     "mvc": "1.11",
     "name": "tiset_grass",
     "auto_tile_sets": [
-        
+        {
+            "id": "7e52a75d-dd12-49bd-8475-9b7c7cd92e97",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "16 Autotile",
+            "tiles": [
+                0,
+                160,
+                195,
+                197,
+                43,
+                121,
+                543,
+                518,
+                39,
+                541,
+                117,
+                522,
+                41,
+                636,
+                639,
+                119
+            ]
+        }
     ],
     "macroPageTiles": {
         "SerialiseData": null,
