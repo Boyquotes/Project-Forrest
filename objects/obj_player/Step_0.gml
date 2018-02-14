@@ -64,8 +64,9 @@ else
 		sprite_index = spr_playerRun;
 	}
 }
-
+/*
 if (hsp != 0)
 {
 	image_xscale = sign(hsp);
 }
+*/

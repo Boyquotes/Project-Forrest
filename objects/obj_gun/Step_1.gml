@@ -24,8 +24,32 @@ y = y - lengthdir_y(recoil, image_angle);
 if (image_angle > 90) && (image_angle < 270)
 {
 	image_yscale = -1;
+	with (obj_player)
+	{
+		image_xscale = -1;
+		if (sign(hsp) < 0) && (hsp != 0)
+		{
+			image_speed = -1;
+		}
+		else
+		{
+			image_speed = 1;
+		}
+	}
 }
 else 
 {
 	image_yscale = 1;
+	with (obj_player)
+	{
+		image_xscale = 1;
+		if (sign(hsp) < 0) && (hsp != 0)
+		{
+			image_speed = 1;
+		}
+		else
+		{
+			image_speed = -1
+		}
+	}
 }
