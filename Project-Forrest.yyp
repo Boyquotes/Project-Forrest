@@ -295,14 +295,6 @@
             }
         },
         {
-            "Key": "b1a8eb30-7e76-4459-bee9-d6cb31bb95dc",
-            "Value": {
-                "id": "e57a592b-7b01-46c4-8688-e826e712b545",
-                "resourcePath": "objects\\obj_grassTileset\\obj_grassTileset.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "b478b539-e45f-4e2d-926d-051bfe89aa28",
             "Value": {
                 "id": "6bfcd2ca-0fc3-4485-a058-683f8bcf011f",

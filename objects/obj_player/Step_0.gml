@@ -1,4 +1,4 @@
- //Get Player Input
+//Get Player Input
 key_left = keyboard_check(ord("A")) || keyboard_check(vk_left);
 key_right = keyboard_check(ord("D")) || keyboard_check(vk_right);
 key_jump = keyboard_check(vk_space);
