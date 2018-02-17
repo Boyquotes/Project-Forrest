@@ -275,7 +275,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Character",
+            "name": "Player",
             "id": "46bfe5cb-a8cc-48bc-bcce-7e483f351e11",
             "depth": 200,
             "grid_x": 16,
